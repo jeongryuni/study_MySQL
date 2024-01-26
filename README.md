@@ -353,7 +353,7 @@
 
 
 ***
-#### DML(Data Manipulation Language): 데이터 조작어
+## DML(Data Manipulation Language): 데이터 조작어
    1. select: 조회(검색)
       select [컬럼명1, ...]
       from [테이블명]
